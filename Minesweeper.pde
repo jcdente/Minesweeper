@@ -58,18 +58,18 @@ public void displayLosingMessage()
             if(!buttons[r][c].isClicked()&&bombs.contains(buttons[r][c])){
                 buttons[r][c].marked=false;
                 buttons[r][c].clicked=true;
-                    buttons[0][0].setLabel("R");
-                    buttons[0][1].setLabel("e");
-                    buttons[0][2].setLabel("k");
-                    buttons[0][3].setLabel("t");
-                    buttons[0][4].setLabel("e");
-                    buttons[0][5].setLabel("r");
-                    buttons[0][6].setLabel("o");
-                    buttons[0][7].setLabel("o");
-                    buttons[0][8].setLabel("n");
-                    buttons[0][9].setLabel("i");
-                    buttons[0][10].setLabel("e");
-                    buttons[0][11].setLabel("d");
+                    buttons[0][0].setLabel("Y");
+                    buttons[0][1].setLabel("O");
+                    buttons[0][2].setLabel("U");
+                    buttons[0][3].setLabel(" ");
+                    buttons[0][4].setLabel("L");
+                    buttons[0][5].setLabel("O");
+                    buttons[0][6].setLabel("S");
+                    buttons[0][7].setLabel("E");
+                    buttons[0][8].setLabel("!");
+                    buttons[0][9].setLabel(" ");
+                    buttons[0][10].setLabel(" ");
+                    buttons[0][11].setLabel(" ");
 
             }
         }
