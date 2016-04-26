@@ -78,18 +78,13 @@ public void displayLosingMessage()
 public void displayWinningMessage()
 {
                     buttons[0][0].setLabel("Y");
-                    buttons[0][1].setLabel("o");
-                    buttons[0][2].setLabel("u");
+                    buttons[0][1].setLabel("O");
+                    buttons[0][2].setLabel("U");
                     buttons[0][3].setLabel(" ");
-                    buttons[0][4].setLabel("w");
-                    buttons[0][5].setLabel("o");
-                    buttons[0][6].setLabel("n");
-                    buttons[0][7].setLabel("n");
-                    buttons[0][8].setLabel("e");
-                    buttons[0][9].setLabel("r");
-                    buttons[0][10].setLabel("e");
-                    buttons[0][11].setLabel("d");
-                    buttons[0][12].setLabel("!");
+                    buttons[0][4].setLabel("W");
+                    buttons[0][5].setLabel("I");
+                    buttons[0][6].setLabel("N");
+                    buttons[0][7].setLabel("!");
 
 }
 
